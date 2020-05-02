@@ -1,0 +1,85 @@
+Combined_Key,Predicted Deaths,Actual 4/27/2020,Absolute Difference
+"Alcona, Michigan, US",0.049255612,0,0.049255612
+"Alger, Michigan, US",0.049255612,0,0.049255612
+"Allegan, Michigan, US",0.888768522,1,0.111231478
+"Alpena, Michigan, US",1.983333333,2,0.016666667
+"Antrim, Michigan, US",0.049255612,0,0.049255612
+"Arenac, Michigan, US",1,1,0
+"Baraga, Michigan, US",0.049255612,0,0.049255612
+"Barry, Michigan, US",1.066666667,1,0.066666667
+"Bay, Michigan, US",2.666666667,3,0.333333333
+"Benzie, Michigan, US",0.049255612,0,0.049255612
+"Berrien, Michigan, US",13.48333333,14,0.516666667
+"Branch, Michigan, US",2.033333333,2,0.033333333
+"Calhoun, Michigan, US",10.23333333,11,0.766666667
+"Cass, Michigan, US",1.983333333,2,0.016666667
+"Charlevoix, Michigan, US",1.083333333,1,0.083333333
+"Cheboygan, Michigan, US",1.016666667,1,0.016666667
+"Chippewa, Michigan, US",0.016249903,0,0.016249903
+"Clare, Michigan, US",1.15,1,0.15
+"Clinton, Michigan, US",9.016666667,9,0.016666667
+"Crawford, Michigan, US",2.8,3,0.2
+"Delta, Michigan, US",2.1,2,0.1
+"Dickinson, Michigan, US",2.05,2,0.05
+"Eaton, Michigan, US",5.983333333,6,0.016666667
+"Emmet, Michigan, US",2.066666667,2,0.066666667
+"Genesee, Michigan, US",104.1666667,165,60.83333333
+"Gladwin, Michigan, US",1,1,0
+"Gogebic, Michigan, US",1,1,0
+"Grand Traverse, Michigan, US",5.133333333,5,0.133333333
+"Gratiot, Michigan, US",1,1,0
+"Hillsdale, Michigan, US",14.88333333,16,1.116666667
+"Houghton, Michigan, US",0.049255612,0,0.049255612
+"Huron, Michigan, US",0.024387057,0,0.024387057
+"Ingham, Michigan, US",9.416666667,10,0.583333333
+"Ionia, Michigan, US",2.066666667,2,0.066666667
+"Iosco, Michigan, US",3.716666667,4,0.283333333
+"Iron, Michigan, US",0.049255612,0,0.049255612
+"Isabella, Michigan, US",7.666666667,7,0.666666667
+"Jackson, Michigan, US",16.66666667,18,1.333333333
+"Kalamazoo, Michigan, US",12.86666667,12,0.866666667
+"Kalkaska, Michigan, US",2,2,0
+"Kent, Michigan, US",35.11666667,34,1.116666667
+"Keweenaw, Michigan, US",0.049255612,0,0.049255612
+"Lake, Michigan, US",0.049255612,0,0.049255612
+"Lapeer, Michigan, US",24.28333333,24,0.283333333
+"Leelanau, Michigan, US",0.049255612,0,0.049255612
+"Lenawee, Michigan, US",0.049255612,1,0.950744388
+"Livingston, Michigan, US",14.16666667,14,0.166666667
+"Luce, Michigan, US",0.049255612,0,0.049255612
+"Mackinac, Michigan, US",0.049255612,0,0.049255612
+"Macomb, Michigan, US",492.8833333,527,34.11666667
+"Manistee, Michigan, US",0.049255612,0,0.049255612
+"Marquette, Michigan, US",7.783333333,7,0.783333333
+"Mason, Michigan, US",0.049255612,0,0.049255612
+"Mecosta, Michigan, US",1,1,0
+"Menominee, Michigan, US",0.049255612,0,0.049255612
+"Midland, Michigan, US",2.983333333,3,0.016666667
+"Missaukee, Michigan, US",1.016666667,1,0.016666667
+"Monroe, Michigan, US",11.83333333,12,0.166666667
+"Montcalm, Michigan, US",1.016666667,1,0.016666667
+"Montmorency, Michigan, US",0.049255612,0,0.049255612
+"Muskegon, Michigan, US",13.25,13,0.25
+"Newaygo, Michigan, US",0.049255612,0,0.049255612
+"Oakland, Michigan, US",630.7,631,0.3
+"Oceana, Michigan, US",1.016666667,1,0.016666667
+"Ogemaw, Michigan, US",0.049255612,0,0.049255612
+"Ontonagon, Michigan, US",0.049255612,0,0.049255612
+"Osceola, Michigan, US",0.049255612,0,0.049255612
+"Oscoda, Michigan, US",0.024387057,0,0.024387057
+"Otsego, Michigan, US",7.816666667,8,0.183333333
+"Ottawa, Michigan, US",8.616666667,9,0.383333333
+"Presque Isle, Michigan, US",0.049255612,0,0.049255612
+"Roscommon, Michigan, US",0.049255612,0,0.049255612
+"Saginaw, Michigan, US",42.85,47,4.15
+"St. Clair, Michigan, US",17.61666667,18,0.383333333
+"St. Joseph, Michigan, US",1.083333333,1,0.083333333
+"Sanilac, Michigan, US",3.866666667,4,0.133333333
+"Schoolcraft, Michigan, US",0.049255612,0,0.049255612
+"Shiawassee, Michigan, US",7.233333333,8,0.766666667
+"Tuscola, Michigan, US",13.71666667,13,0.716666667
+"Van Buren, Michigan, US",2.066666667,2,0.066666667
+"Washtenaw, Michigan, US",61.38333333,55,6.383333333
+"Wayne, Michigan, US",1275.133333,1622,346.8666667
+"Wexford, Michigan, US",1.683333333,2,0.316666667
+,,Average Difference:,5.641886092
